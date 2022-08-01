@@ -14,3 +14,8 @@
  So I made everything a lot easier. 1, with cron jobs to fix the first problem, and 2, with papermc.io's paper platform for bukkit and spigot mods to be run on servers. This is all preconfigured in a nice little package for you, so all you need to do is boot up your server in oracle using an Ubuntu or Debian OS, git clone this repo, a little bit of setup.sh, a short run.sh later and you've got a working minecraft server, WITH MODS, WITH a cronjob to restart it every 12am and 12pm, and best of all, running those 3 commands will only take you 10 minutes. Not 4 hours. 10 MINUTES.
  
  Tutorial on how to get all this working with oracle/azure servers coming soon.
+ 
+ 
+ ## customizing this server for yourself
+
+simply fork the repo and add whichever mods you choose. I've added 2 QOL mods I find very useful, and that's all there is to it. If you don't want whitelist enforced, or want to play by your own special rules, simply change the server.properties file as well to your liking.
