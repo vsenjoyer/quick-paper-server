@@ -14,4 +14,6 @@ sudo apt-get install cron
 
 java -version
 
+echo "all done!" 
+
 
